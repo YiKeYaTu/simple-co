@@ -1,0 +1,27 @@
+{
+  "name": "simple-co",
+  "version": "1.0.0",
+  "description": "一个简易的 generator 执行器",
+  "main": "index.js",
+  "dependencies": {
+    "_is@3.2.1@is": "^3.2.1",
+    "is": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiKeYaTu/simple-co.git"
+  },
+  "keywords": [
+    "co"
+  ],
+  "author": "chenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiKeYaTu/simple-co/issues"
+  },
+  "homepage": "https://github.com/YiKeYaTu/simple-co#readme"
+}
